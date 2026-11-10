@@ -96,40 +96,14 @@ Proyecto personal para gestionar ventas, presupuestos y procesos contables, con 
 
 ## `04` // GitHub analytics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SrRaulOsorio&show_icons=true&hide_border=true&bg_color=101827&title_color=00D9FF&text_color=E5EDF7&icon_color=00D9FF&include_all_commits=true"
-    height="155"
-    alt="Estadísticas públicas de GitHub"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrRaulOsorio&layout=compact&hide_border=true&bg_color=101827&title_color=00D9FF&text_color=E5EDF7"
-    height="155"
-    alt="Lenguajes más utilizados en repositorios públicos"
-  />
-</p>
-
-##Grafico de actividad 01
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=SrRaulOsorio&hide_border=true&background=101827&ring=00D9FF&fire=2563EB&currStreakLabel=00D9FF&sideLabels=E5EDF7&dates=94A3B8&currStreakNum=E5EDF7&sideNums=E5EDF7"
-    height="150"
-    alt="Racha de contribuciones"
-  />
-</p>
-
-## Grafico de actividad
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SrRaulOsorio&bg_color=101827&color=E5EDF7&line=00D9FF&point=2563EB&area=true&hide_border=true"
-    width="96%"
-    alt="Gráfico de actividad de GitHub"
-  />
-</p>
-
-
+<div align="center">
+<a href="https://github.com/SrRaulOsorio">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SrRaulOsorio&theme=2077" height="180em" /> <br><br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SrRaulOsorio&theme=2077" height="180em" /> <br><br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SrRaulOsorio&theme=2077" height="180em" /> <br><br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrRaulOsorio&theme=2077" height="180em" /> <br><br>
+</div>
+  
 ---
 
 <p align="center">
