@@ -1,75 +1,120 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hola 👋, soy SrRaulOsorio</h1>
-<h3 align="center">...</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SrRaulOsorio&label=Profile%20views&color=0e75b6&style=flat" alt="SrRaulOsorio" /> </p>
+# 👋 Hola, soy Raúl Osorio
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SrRaulOsorio&theme=" alt="SrRaulOsorio" /></a> </p>
+### Software Developer | Backend & Full Stack Development
 
-- 🔭 Actualmente estoy trabajando en **...**-
-👯 Estoy buscando colaborar en **...**
-- 🤝 Estoy buscando ayuda con **...**
-- 🌱 Actualmente estoy aprendiendo **...**
-- 💬 Pregunta por **...**
-- 📫 Cómo comunicarse conmigo **rosoriocastro2002@gmail.com**
-- 👨‍💻 Todos mis proyectos están disponibles en **...**
-- 📝 Escribo artículos regularmente en **...**
-- 📄 Conozco mis experiencias **...**
-- ⚡ Dato curioso **...**
+Desarrollador de software enfocado en construir soluciones tecnológicas funcionales, escalables y bien estructuradas.
 
-<div> <a href="https://github.com/SrRaulOsorio" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:rosoriocastro2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://dev.to/SrROC" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="SrROC" height="30" width="40" /></a></p>
+Me interesa especialmente el desarrollo backend, la arquitectura de software, las API REST y la integración de tecnologías para resolver problemas reales.
 
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/angular.svg" alt="Angular" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="Reaccionar" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/android-original-wordmark.svg" alt="Android" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/header_logo.svg" alt="React Native" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/kotlinlang-icon.svg" alt="Kotlin" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg" alt="Flask" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/django.svg" alt="Django" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Cartero" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Engines/unity3d-icon.svg" alt="Unidad" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" ancho="40" alto="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" ancho="40" alto="40"/>
-</p><
+Actualmente continúo fortaleciendo mis conocimientos en desarrollo de software, buenas prácticas, arquitectura y nuevas herramientas tecnológicas.
 
-h3 align="left">Soporte:</h3>
-<p><a href="https://www.buymeacoffee.com/SrROC"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" altura="50" ancho="210" alt="SrROC" /></a><a href="https://ko-fi.com/SrROC"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" altura="50" ancho="210" alt="SrROC" /></a></p><br><br>
+---
 
-<h3 align="izquierda">Estrellas</h3>
-<img align="izquierda" altura="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrRaulOsorio&diseño=compacto&tema=" alt=SrRaulOsorio />
+### 👨‍💻 Sobre mí
 
-<p> <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SrRaulOsorio&show_icons=true&locale=en&theme=" alt="SrRaulOsorio" /></p>
+- 🎓 Tecnólogo en Análisis y Desarrollo de Software (SENA).
+- 💻 Experiencia en desarrollo frontend y backend.
+- ⚙️ Interesado en arquitectura de software y diseño de API REST.
+- 🗄️ Trabajo con bases de datos relacionales.
+- 🔧 Experiencia utilizando Git, GitHub y herramientas de desarrollo.
+- 🚀 En constante aprendizaje y construcción de proyectos.
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SrRaulOsorio&theme=" alt="SrRaulOsorio" /></p>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Estadísticas</h3>
-<div align="center">
-<a href="https://github.com/SrRaulOsorio"><img
-align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SrRaulOsorio&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.¿aplicación/api/tarjetas/idioma de mayor confirmación?nombre de usuario=SrRaulOsorio&theme=2077" altura="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SrRaulOsorio&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SrRaulOsorio&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrRaulOsorio&theme=2077" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Gráfico de actividad:</h2>
-<img align="centro" src="https://github-readme-activity-graph.vercel.app/graph?username=SrRaulOsorio&theme=default"/>
+### 🛠️ Tecnologías y herramientas
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+**Lenguajes de programación**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
+
+**Bases de datos**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+</p>
+
+**Herramientas y entorno**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+---
+
+### 🚀 Proyectos destacados
+
+**TASKFLOW**
+- Proyecto enfocado en la gestión de tareas y organización de procesos.
+- Interés en arquitectura de software, autenticación, API y buenas prácticas de desarrollo.
+
+**LedgerPro**
+- Sistema de gestión comercial y contable.
+- Desarrollo frontend y backend.
+- Integración de FastAPI, SQLAlchemy y MySQL.
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SrRaulOsorio&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrRaulOsorio&layout=compact&theme=github_dark&hide_border=true" alt="Lenguajes más utilizados"/>
+</p>
+
+<p align="center">
+  <img height="150" src="https://streak-stats.demolab.com?user=SrRaulOsorio&theme=github-dark-blue&hide_border=true" alt="Racha de contribuciones"/>
+</p>
+
+---
+
+### 📈 Actividad
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrRaulOsorio&theme=github-compact&hide_border=true" width="95%" alt="Gráfico de actividad"/>
+</p>
+
+---
+
+### 📫 Conectemos
+
+<p>
+  <a href="mailto:rosoriocastro2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/SrRaulOsorio">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Construyendo, aprendiendo y mejorando una línea de código a la vez.</i>
+</p>
