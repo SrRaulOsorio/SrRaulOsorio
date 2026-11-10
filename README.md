@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Banner futurista de Raúl Osorio" width="100%" />
 </p>
 
-<h1 align="center">Raúl Osorio</h1>
+<h1 align="center">Sr Raúl Osorio</h1>
 
 <h3 align="center">Software Developer · Backend & Full Stack</h3>
 
@@ -109,6 +109,8 @@ Proyecto personal para gestionar ventas, presupuestos y procesos contables, con 
   />
 </p>
 
+##Grafico de actividad 01
+
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=SrRaulOsorio&hide_border=true&background=101827&ring=00D9FF&fire=2563EB&currStreakLabel=00D9FF&sideLabels=E5EDF7&dates=94A3B8&currStreakNum=E5EDF7&sideNums=E5EDF7"
@@ -116,6 +118,8 @@ Proyecto personal para gestionar ventas, presupuestos y procesos contables, con 
     alt="Racha de contribuciones"
   />
 </p>
+
+## Grafico de actividad
 
 <p align="center">
   <img
