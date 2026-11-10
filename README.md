@@ -7,7 +7,7 @@
 <h3 align="center">Software Developer · Backend & Full Stack</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BUILD-LEARN-INNOVATE-00D9FF?style=for-the-badge&labelColor=101827" alt="Build Learn Innovate" />
+  <img src="https://komarev.com/ghpvc/?username=SrRaulOsorio&label=Profile%20views&color=0e75b6&style=flat" alt="SrRaulOsorio" />
 </p>
 
 <p align="center">
