@@ -89,9 +89,6 @@ Proyecto en desarrollo enfocado en la organización de tareas y procesos, con tr
 
 Proyecto personal para gestionar ventas, presupuestos y procesos contables, con backend desarrollado en FastAPI e integración de SQLAlchemy y MySQL.
 
-- [Frontend — LedgerPro](https://github.com/SrRaulOsorio/ledgerpro-frontend)
-- [Backend — LedgerPro](https://github.com/SrRaulOsorio/ledgerpro-backend)
-
 > Los proyectos se encuentran en evolución; sus repositorios y funcionalidades pueden cambiar a medida que avance el desarrollo.
 
 ## `04` // GitHub analytics
